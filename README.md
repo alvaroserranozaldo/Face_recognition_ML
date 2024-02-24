@@ -1,6 +1,6 @@
 # Face_recognition_ML
 
-# The repository processes images stored in zip files within a designated directory. It identifies faces in these images, standardizes their sizes, and generates numerical representations for each face. The processed images, along with their identities, filenames within the zip files, and embeddings, are provided for additional analysis or application.
+The repository processes images stored in zip files within a designated directory. It identifies faces in these images, standardizes their sizes, and generates numerical representations for each face. The processed images, along with their identities, filenames within the zip files, and embeddings, are provided for additional analysis or application.
 
 
 # Project Overview
